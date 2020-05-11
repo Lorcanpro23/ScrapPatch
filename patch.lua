@@ -20,6 +20,7 @@ function SurvivalGame.server_onCreate( self )
 	self.sv = {}
 	self.sv.saved = self.storage:load()
 	print( "Saved:", self.sv.saved )
+	print("uh oh STINKY")
 	if self.sv.saved == nil then
 		self.sv.saved = {}
 		self.sv.saved.data = self.data
