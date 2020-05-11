@@ -49,3 +49,4 @@ Key Commands are marked with a *\
 /printglobals - Print all global lua variables\
 /clearpathnodes - Clear all path nodes in overworld\
 /enablepathpotatoes - Creates path nodes at potato hits in overworld and links to previous node\
+/killmeirl - kills you in real life.
